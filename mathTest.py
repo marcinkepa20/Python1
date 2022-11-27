@@ -12,7 +12,7 @@ def test_addMore2():
     assert the_sum(200,200) == 400
 
 def test_add3():
-    assert the_sum(3,3) == 9
+    assert the_sum(3,3) == 6
 
 
 
