@@ -8,6 +8,10 @@ def test_add():
 def test_addMore():
     assert the_sum(100,2) == 102
 
+def test_addMore2():
+    assert the_sum(200,200) == 400
+    
+
 
 
 
